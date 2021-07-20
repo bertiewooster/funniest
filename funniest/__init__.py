@@ -1,1 +1,2 @@
-from .text import joke
+#from .text import joke
+from . import text
